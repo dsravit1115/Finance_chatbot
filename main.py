@@ -1,4 +1,3 @@
-# CLI version for quick testing
 from app import semantic_chunk, mask_pii
 from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
