@@ -1,0 +1,3 @@
+# Secure Finance RAG Bot
+
+A RAG-based financial chatbot with spaCy chunking, PII masking, OpenAI LLM, and FAISS vector search. Includes placeholders for QLoRA fine-tuning and evaluation metrics.
